@@ -1,0 +1,18 @@
+.navbar-logo {
+    height: 30px;
+}
+
+.background-cover2 {
+    background: url("../img/doctor.jpg") center top no-repeat;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.background-white {
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+footer {
+    background: black;
+    color: white;
+}
